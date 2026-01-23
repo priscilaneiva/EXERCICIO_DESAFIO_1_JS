@@ -39,21 +39,8 @@
 
 }
 
-#btn_menu {
-    background-color: white;
-    color: black;
-    border: none;              /* Remove a borda padrão */
-    width: 60px;     /* Largura e altura iguais */
-    height: 60px;
-    border-radius: 50%; /* Transforma o quadrado em círculo */
-    align-items: right;
-    justify-content: right;
-    border: none;
-    background-color:white;
-    color: white;
-    cursor: pointer;
 
-}
+
 
 .header{
     display: flex;
@@ -69,3 +56,79 @@
     color: #333;
     align-items: right;
 }
+
+#btnContaDigital{
+   cursor: pointer;
+   font-weight: bold;
+   color: black;
+   border: none;              /* Remove a borda padrão */
+   border-radius: 50px;
+   padding: 8px 14px; 
+   font-size: 14px;
+}
+#btnCartoes{
+   cursor: pointer;
+   font-weight: bold;
+   color: black;
+   border: none;              /* Remove a borda padrão */
+   border-radius: 50px;
+   padding: 8px 14px; 
+   font-size: 14px;
+}
+
+#btnEmprestimos{
+   cursor: pointer;
+   font-weight: bold;
+   color: black;
+   border: none;              /* Remove a borda padrão */
+   border-radius: 50px;
+   padding: 8px 14px; 
+   font-size: 14px;
+}
+
+#btnInvestimentos{
+   cursor: pointer;
+   font-weight: bold;
+   color: black;
+   border: none;              /* Remove a borda padrão */
+   border-radius: 50px;
+   padding: 8px 14px; 
+   font-size: 14px;
+}
+
+#btnSeguros{
+   cursor: pointer;
+   font-weight: bold;
+   color: black;
+   border: none;              /* Remove a borda padrão */
+   border-radius: 50px;
+   padding: 8px 14px; 
+   font-size: 14px;
+}
+
+#btn_oPicpay{
+   cursor: pointer;
+   font-weight: bold;
+   color: black;
+   border: none;              /* Remove a borda padrão */
+   border-radius: 50px;
+   padding: 8px 14px; 
+   font-size: 14px;
+   
+}
+
+#img_fundo_pagina1_opçao2{
+ width: 100%;
+
+}
+
+#div_header{
+    display: flex;            /* Ativa o modo flexível */
+    justify-content: center;   /* Alinha horizontalmente (veja as opções abaixo) */
+    align-items: center;       /* Alinha verticalmente no centro */
+    padding: 15px;
+}
+
+
+
+
